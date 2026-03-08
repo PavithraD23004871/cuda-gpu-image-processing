@@ -1,14 +1,14 @@
-```CUDA Image Processing Project Report```
+CUDA Image Processing Project
 
 Student Name: Shyam Kumar.S
 
-```Project Overview:```
+1. Project Overview
 
 This project implements GPU-accelerated image processing using CUDA. The application
 processes large grayscale images using CUDA kernels and CUDA streams. The goal is to
 demonstrate parallel image processing and performance comparison between CPU and GPU.
 
-``` Implementation Details:```
+2. Implementation Details
 
 • Implemented CUDA kernel for image processing.
 
@@ -18,7 +18,7 @@ demonstrate parallel image processing and performance comparison between CPU and
 
 • Processed 200 images on GPU
 
-```Performance Results:```
+3. Performance Results
 
 CPU Time: 0.0274350643157959
 GPU Time: 0.0040264129638671875
@@ -26,7 +26,7 @@ Speedup GPU vs CPU: 6.813773093320701
 Processed 500 images on GPU
 Total GPU Time: 0.21869349479675293 seconds
 
-```Screenshots:```
+4. Screenshots
 
 GPU vs CPU Time
 
