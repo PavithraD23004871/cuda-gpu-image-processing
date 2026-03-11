@@ -1,7 +1,5 @@
 CUDA Image Processing Project
 
-Student Name: Shyam Kumar.S
-
 ``` Project Overview```
 
 This project implements GPU-accelerated image processing using CUDA. The application
