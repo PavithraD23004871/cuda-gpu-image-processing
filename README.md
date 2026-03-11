@@ -33,7 +33,7 @@ GPU vs CPU Time
 GPU Time
 
 <img width="435" height="57" alt="image" src="https://github.com/user-attachments/assets/173bd85e-6c6b-4d83-b051-0471214909de" />
-
+ 
 processed_images.png
 
 <img width="737" height="571" alt="image" src="https://github.com/user-attachments/assets/e7ee8e95-76f8-44de-9aaf-7e5169d13d3e" />
